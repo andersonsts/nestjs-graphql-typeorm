@@ -1,0 +1,8 @@
+$ nest new nome-do-projeto
+CRIA UM PROJETO NEST
+
+$ yarn typeorm migration:create -n create-users
+CRIA UMA MIGRATION DE USERS
+
+$ yarn typeorm migration:run
+RODA A MIGRATION
